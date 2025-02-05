@@ -7,7 +7,7 @@
 
 # 🚀 Cybersecurity for Beginners – a curriculum
 
-In this rapidly changing age of AI technology adoption, it is even more critical to understand how to secure IT systems. This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
+In this rapidly changing age of AI technology adoption, it is even more critical to understand how to secure IT systems. This course is designed to teach you fundamental cybersecurity concepts to kick-start your security learning. It is vendor-agnostic and is divided into small lessons that should take around 30-60 minutes to complete. Each lesson includes a small quiz and links to further reading if you want to dive deeper into the topic.
 
 ![Cybersecurity for Beginners](images/banner.jpg)
 
@@ -16,7 +16,7 @@ What this course covers 📚
 - 🔐 Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
 - 🛡️ Understanding what a security control is and what forms they take.
 - 🌐 Understanding what zero trust is and why this is important in modern cyber security.
-- 🔑 Understanding key concepts and themes across identity, networking, security operations, infrastructure and data security.
+- 🔑 Understanding key concepts and themes across identity , networking , security operations , infrastructure and data security.
 - 🔧 Giving some examples of tools used to implement security controls.
 
 What this course does not cover 🙅‍♂️
@@ -68,9 +68,9 @@ Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Comp
 | **8.2**           | AI security fundamentals                | [AI security capabilities](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Learn about AI security tooling and the controls that can be used to secure AI.                         |
 | **8.3**           | AI security fundamentals                | [Responsible AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Learn about what responsible AI is and AI specific harms that security professionals need to be aware of.                          |
 | **8.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
-## 🎒  Other Courses 
+## 🎒 Other Courses 
 
-Our team produces other courses! Check out:
+Our  team produces other courses! Check out :
 
 - [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-96948-sayoung)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-96948-sayoung)
